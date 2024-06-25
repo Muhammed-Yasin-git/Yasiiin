@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://muhammed-yasin-portfolio.vercel.app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Shaamiilll/Shaamiilll/main/images/SHAML.png" alt="my banner"></a>
+  <a href="https://muhammed-yasin-portfolio.vercel.app/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Muhammed-Yasin-git/Yasiiin/main/images/yasin.jpeg" alt="my banner"></a>
 </p>
 
 <h3 align="center">
